@@ -1,0 +1,32 @@
+.rowdiv {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+
+.flashbutton {
+}
+
+.statElement {
+    /*margin: 0px 150px 0px 100px;*/
+}
+
+.carddiv {
+    display: flex;
+    flex-flow: row;
+}
+
+.card_button {
+    margin: 5px;
+    padding: 5px;
+    border-style: double;
+    border-width: 3px;
+}
+
+#topdiv {
+    height: 40px;
+}
+
+#click_machine {
+    padding: 10px;
+}
